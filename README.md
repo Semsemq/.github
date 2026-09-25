@@ -54,6 +54,12 @@ If you are not a MetaMask Internal Developer, or are otherwise developing on a f
   - Replace the `INFURA_PROJECT_ID` value with your own personal [Infura API Key](https://docs.infura.io/networks/ethereum/how-to/secure-a-project/project-id).
     - If you don't have an Infura account, you can create one for free on the [Infura website](https://app.infura.io/register).
   - If debugging MetaMetrics, you'll need to add a value for `SEGMENT_WRITE_KEY` [Segment write key](https://segment.com/docs/connections/find-writekey/), see [Developing on MetaMask - Segment](./development/README.md#segment).
+  - ## Support & Donations
+
+If you wish to support my open-source work:
+
+- **BNB Chain (BEP2):** `bnb165q9dz39mqh789zuuuqwkv22plut6f4nzy9jc9`
+  
   - If debugging unhandled exceptions, you'll need to add a value for `SENTRY_DSN` [Sentry Dsn](https://docs.sentry.io/product/sentry-basics/dsn-explainer/), see [Developing on MetaMask - Sentry](./development/README.md#sentry).
   - Optionally, replace the `PASSWORD` value with your development wallet password to avoid entering it each time you open the app.
 - Run `yarn install` to install the dependencies.
