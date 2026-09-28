@@ -9,9 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ['https://explorer.binance.org/address/bnb165q9dz39mqh789zuuuqwkv22plut6f4nzy9jc9']
-custom: ['https://bscscan.com/address/0x14023931481d9e631c4dc6c1f17bc1e35167a636']
-custom: [
-  'https://bscscan.com/token/0x2b080ef661315529672ac30d9ed42379149bce01?a=0xe8b399dfc479184a023a274fe745b78a108b8422',
-  'https://bscscan.com/address/0x14023931481d9e631c4dc6c1f17bc1e35167a636'
-]
+custom: 'https://bscscan.com/address/0xe8b399dfc479184a023a274fe745b78a108b8422'
